@@ -1,0 +1,16 @@
+{
+  "New Hire": {
+    "odds": {
+      "Common": 79,
+      "Uncommon": 17,
+      "Rare": 3,
+      "Unusual": 1
+    },
+    "items": {
+      "Common": ["Strange Grenade Launcher", "Strange Flame Thrower", "Strange Wrench", "Strange Syringe Gun", "Strange Sniper Rifle", "Strange Knife"],
+      "Uncommon": ["Strange Scattergun", "Strange Rocket Launcher", "Strange Minigun", "Mann Co. Supply Crate Key"],
+      "Rare": ["Taunt: Kazotsky Kick", "Bills Hat"],
+      "Unusual": ["Max's Severed Head"]
+    }
+  }
+}
