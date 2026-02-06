@@ -1,0 +1,17 @@
+tf2-case-simulator/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── data/
+│   ├── cases.json
+│   ├── items.json
+│
+├── images/
+│   ├── scout/
+│   ├── soldier/
+│   ├── unusuals/
+│   └── cases/
+│
+└── README.md
